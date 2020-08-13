@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "cat toy",
+      "image": "https://media.macphun.com/img/uploads/customer/how-to/579/15531840725c93b5489d84e9.43781620.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Annetta",
+      "image": "https://pbs.twimg.com/profile_images/1181864051296653317/eGNeOk9X_400x400.jpg",
+      "likes": 0,
+      "id": 10
     }
   ]
 }
